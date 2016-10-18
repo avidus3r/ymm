@@ -1,0 +1,28 @@
+{
+  "name": "ymm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed_db": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avidus3r/ymm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avidus3r/ymm/issues"
+  },
+  "homepage": "https://github.com/avidus3r/ymm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp":"latest",
+    "gulp-nodemon":"latest",
+    "gulp-sass":"latest"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ymm",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Christiaan Mealey <chris.mealey@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/avidus3r/ymm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
